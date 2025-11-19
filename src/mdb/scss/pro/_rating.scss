@@ -1,0 +1,40 @@
+.rating {
+  --#{$prefix}rating-icon-padding: #{$rating-icon-padding};
+
+  display: flex;
+  margin: 0;
+  padding: 0;
+  li {
+    list-style: none;
+  }
+  i {
+    padding: var(--#{$prefix}rating-icon-padding);
+
+    &.fa-sm {
+      line-height: 1;
+    }
+  }
+
+  .partial {
+    position: relative;
+
+    &::before {
+      font-weight: 900;
+      clip-path: inset(0 calc(100% - var(--percentage)) 0 0);
+      -webkit-clip-path: inset(0 calc(100% - var(--percentage)) 0 0);
+    }
+
+    &::after {
+      content: var(--content);
+      font-weight: 400;
+      width: 100%;
+      position: absolute;
+      top: var(--#{$prefix}rating-icon-padding);
+      left: var(--#{$prefix}rating-icon-padding);
+    }
+  }
+}
+
+.rating:not([data-mdb-readonly='true']) li {
+  cursor: pointer;
+}

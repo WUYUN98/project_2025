@@ -1,0 +1,107 @@
+HIGHLIGHTS
+
+- You have right to personal use
+- You have right to commercial use
+- No attribution is required
+- You cannot redistribute MDB PRO files in public available spaces (e.g. public GitHub repos)
+- Project number limits & User number limits are defined by the tier you purchased
+ 
+Paid packages are licensed according to the End User License Agreement (EULA) detailed below. By using products listed below (Product) from StartupFlow s.c. (MDB / MDBootstrap), you agree that this is a legally binding and valid contract and agree to be bound by it. You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement.
+
+I. RIGHTS
+
+NO ATTRIBUTION REQUIRED
+
+You are not required to attribute or link to Material Design for Bootstrap in any projects.
+
+RIGHT TO PERSONAL USE
+
+The License grants you, the purchaser, an ongoing, non-exclusive, worldwide license to make use of the Product in personal projects, in accordance with the EULA.
+
+RIGHT TO COMMERCIAL USE
+
+The License grants you, the purchaser, an ongoing, non-exclusive, worldwide license to make use of the Product in commercial projects, in accordance with the EULA.
+
+RIGHT TO MODIFICATION
+
+You may modify the resources according to your requirements.
+
+RIGHT TO PURCHASE A CHOSEN MODULE SEPARATELY
+
+You may purchase a chosen MDB module / plugin or template separately.
+
+RIGHT TO CREATE THE END PRODUCT
+
+You may use the Product to create End Products in accordance with the EULA. The End Product is a customized implementation of the Product requiring an application of skill and effort (f.e. a website build with MDB Template with customized, modified content is an End Product because it requires skill and effort while a website which is literally copy-pasted MDB Template isn't).
+
+II. RESTRICTIONS
+
+END PRODUCT USAGE BY END USER
+
+You cannot permit an End User of the End Product to use the Product separately from the End Product. (e.g. Your client can use the website X that you've built for him, but he cannot build another website Y himself using the files installed for the website X.)
+
+OPEN SOURCE REDISTRIBUTION
+
+You cannot redistribute any of the software, or products created with MDB software to repositories like GitHub, where they are publicly available or include into any Open Source projects.
+
+COMPETING END PRODUCTS
+
+You cannot use the Product to create any End Products that would compete with the Product itself. (f.e. you cannot use MDB 5 Pro to create a framework, library, design system, template, plugin or a page generator).
+
+USER LIMITS
+
+The user limit for a license is specified on the checkout and during the purchase. The license holder (an owner of the mdbootstrap account to which the license is assigned) has a right to allow usage for additional users but not more than the "developer number" specified in the order. The user of the license is defined as a person who will work with & modify MDB components. People who work with the codebase, but don't use/modify the MDB code don't count as users of the license.
+
+PROJECT LIMITS
+
+The project limit for a license is specified on the checkout and during the purchase. The License grants you, the purchaser, an ongoing, non-exclusive right to create as many End Products as specified in the product tier you have purchased.
+
+Tier limits are as follows:
+
+Single module / template / plugin: 1 project
+Single Use Tier: 1 project
+Multi Use Tier: 5 projects
+Essential Tier: Unlimited projects
+Advanced Tier: Unlimited projects
+Bundle Tier: Unlimited projects
+Any Team Tier: Unlimited projects
+Enterprise orders: Unlimited projects
+
+USAGE RIGHTS
+
+You are entitled to use MDB software as long as your subscription is active. We offer subscription periods of 1 year on our website. For enterprises, we are also offering longer subscription periods that are custom quoted. If the subscription is canceled or lapsed, your rights to use the Product will cease.
+
+UNAUTHORIZED REDISTRIBUTION
+
+You cannot redistribute, resell, lease, license, sub-license or offer the Product directly or non-directly to any other third party, without an explicit agreement with StartupFlow s.c.. Learn more about the Reseller Terms: https://mdbootstrap.com/resellers/
+
+III. PREMIUM SUPPORT TERMS
+
+Premium Support is provided via the official MDB support platform that can be found under the following link:
+https://mdbootstrap.com/support/
+
+Support is provided from Monday to Friday, Premium Support tickets are usually answered within 1 workday. Premium Support tickets are guaranteed to be answered by a professional developer from MDB team. Priority Support tickets are always answered first.
+
+SUPPORT CHANNELS
+
+For non-technical queries, please reach out to contact@mdbootstrap.com
+For technical support, please visit our dedicated support forum: https://mdbootstrap.com/support/
+
+IV. CHANGES TO LICENSE TERMS
+
+We reserve the right to make changes to the terms of this license. Any changes will take effect at the start of the next billing period. Customers will be informed of such changes via email. Continuing the subscription after receiving such notification will constitute acceptance of the new terms.
+
+V. EXTENDING THE PACKAGE & UPGRADES
+
+MDB offers multiple products & extensions, that can be purchased in a bundled Tier or separately.
+
+You will find the table of bundle tier contents & retail prices of elements purchased separately on the pricing pages for each technology:
+
+MDB Standard Pricing: https://mdbootstrap.com/docs/standard/pro/#section-contents
+MDB Angular Pricing: https://mdbootstrap.com/docs/angular/pro/#section-contents
+MDB React Pricing: https://mdbootstrap.com/docs/react/pro/#section-contents
+MDB Vue Pricing: https://mdbootstrap.com/docs/react/pro/#section-contents
+
+VI. GOVERNING LAW
+
+This Agreement is governed by and shall be construed in accordance with the laws of Poland.
