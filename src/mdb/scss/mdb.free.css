@@ -26,40 +26,40 @@
   --mdb-gray-800: #4f4f4f;
   --mdb-gray-900: #262626;
   --mdb-primary: #ffbe98;
-  --mdb-secondary: #9fb395;
-  --mdb-success: #14a44d;
+  --mdb-secondary: #e67e5a;
+  --mdb-success: #e67e5a;
   --mdb-danger: #dc4c64;
   --mdb-warning: #e4a11b;
   --mdb-info: #54b4d3;
   --mdb-light: #ffffff;
   --mdb-dark: #332d2d;
   --mdb-primary-rgb: 255, 190, 152;
-  --mdb-secondary-rgb: 159, 179, 149;
-  --mdb-success-rgb: 20, 164, 77;
+  --mdb-secondary-rgb: 230, 126, 90;
+  --mdb-success-rgb: 230, 126, 90;
   --mdb-danger-rgb: 220, 76, 100;
   --mdb-warning-rgb: 228, 161, 27;
   --mdb-info-rgb: 84, 180, 211;
   --mdb-light-rgb: 255, 255, 255;
   --mdb-dark-rgb: 51, 45, 45;
   --mdb-primary-text-emphasis: rgb(204, 152, 121.6);
-  --mdb-secondary-text-emphasis: rgb(63.6, 71.6, 59.6);
-  --mdb-success-text-emphasis: rgb(12, 98.4, 46.2);
+  --mdb-secondary-text-emphasis: rgb(92, 50.4, 36);
+  --mdb-success-text-emphasis: rgb(138, 75.6, 54);
   --mdb-info-text-emphasis: rgb(58.8, 126, 147.7);
   --mdb-warning-text-emphasis: rgb(136.8, 96.6, 16.2);
   --mdb-danger-text-emphasis: rgb(176, 60.8, 80);
   --mdb-light-text-emphasis: #616161;
   --mdb-dark-text-emphasis: #eeeeee;
   --mdb-primary-bg-subtle: rgb(255, 245.25, 239.55);
-  --mdb-secondary-bg-subtle: rgb(240.6, 243.6, 239.1);
-  --mdb-success-bg-subtle: rgb(219.75, 241.35, 228.3);
+  --mdb-secondary-bg-subtle: rgb(251.25, 235.65, 230.25);
+  --mdb-success-bg-subtle: rgb(251.25, 235.65, 230.25);
   --mdb-info-bg-subtle: rgb(229.35, 243.75, 248.4);
   --mdb-warning-bg-subtle: rgb(250.95, 240.9, 220.8);
   --mdb-danger-bg-subtle: rgb(249.75, 228.15, 231.75);
   --mdb-light-bg-subtle: #f5f5f5;
   --mdb-dark-bg-subtle: #262626;
   --mdb-primary-border-subtle: rgb(255, 229, 213.8);
-  --mdb-secondary-border-subtle: rgb(216.6, 224.6, 212.6);
-  --mdb-success-border-subtle: rgb(161, 218.6, 183.8);
+  --mdb-secondary-border-subtle: rgb(245, 203.4, 189);
+  --mdb-success-border-subtle: rgb(245, 203.4, 189);
   --mdb-info-border-subtle: rgb(186.6, 225, 237.4);
   --mdb-warning-border-subtle: rgb(244.2, 217.4, 163.8);
   --mdb-danger-border-subtle: rgb(241, 183.4, 193);
@@ -118,8 +118,8 @@
   --mdb-focus-ring-width: 0.25rem;
   --mdb-focus-ring-opacity: 0.25;
   --mdb-focus-ring-color: rgba(255, 190, 152, 0.25);
-  --mdb-form-valid-color: #14a44d;
-  --mdb-form-valid-border-color: #14a44d;
+  --mdb-form-valid-color: #e67e5a;
+  --mdb-form-valid-border-color: #e67e5a;
   --mdb-form-invalid-color: #dc4c64;
   --mdb-form-invalid-border-color: #dc4c64;
 }
@@ -141,24 +141,24 @@
   --mdb-tertiary-bg: rgb(58.5, 58.5, 58.5);
   --mdb-tertiary-bg-rgb: 59, 59, 59;
   --mdb-primary-text-emphasis: rgb(255, 203, 172.6);
-  --mdb-secondary-text-emphasis: rgb(216.6, 224.6, 212.6);
-  --mdb-success-text-emphasis: rgb(114, 200.4, 148.2);
+  --mdb-secondary-text-emphasis: rgb(245, 203.4, 189);
+  --mdb-success-text-emphasis: rgb(240, 177.6, 156);
   --mdb-info-text-emphasis: rgb(135.3, 202.5, 224.2);
   --mdb-warning-text-emphasis: rgb(238.8, 198.6, 118.2);
   --mdb-danger-text-emphasis: rgb(227, 111.8, 131);
   --mdb-light-text-emphasis: #f5f5f5;
   --mdb-dark-text-emphasis: #eeeeee;
   --mdb-primary-bg-subtle: rgb(51, 38, 30.4);
-  --mdb-secondary-bg-subtle: rgb(31.8, 35.8, 29.8);
-  --mdb-success-bg-subtle: rgb(4, 32.8, 15.4);
+  --mdb-secondary-bg-subtle: rgb(46, 25.2, 18);
+  --mdb-success-bg-subtle: rgb(46, 25.2, 18);
   --mdb-info-bg-subtle: rgb(16.8, 36, 42.2);
   --mdb-warning-bg-subtle: rgb(45.6, 32.2, 5.4);
   --mdb-danger-bg-subtle: rgb(44, 15.2, 20);
   --mdb-light-bg-subtle: #4f4f4f;
   --mdb-dark-bg-subtle: #262626;
   --mdb-primary-border-subtle: rgb(153, 114, 91.2);
-  --mdb-secondary-border-subtle: rgb(95.4, 107.4, 89.4);
-  --mdb-success-border-subtle: rgb(12, 98.4, 46.2);
+  --mdb-secondary-border-subtle: rgb(138, 75.6, 54);
+  --mdb-success-border-subtle: rgb(138, 75.6, 54);
   --mdb-info-border-subtle: rgb(50.4, 108, 126.6);
   --mdb-warning-border-subtle: rgb(136.8, 96.6, 16.2);
   --mdb-danger-border-subtle: rgb(132, 45.6, 60);
@@ -1961,13 +1961,13 @@ progress {
 
 .table-secondary {
   --mdb-table-color: #000;
-  --mdb-table-bg: rgb(235.8, 239.8, 233.8);
-  --mdb-table-border-color: rgb(188.64, 191.84, 187.04);
-  --mdb-table-striped-bg: rgb(224.01, 227.81, 222.11);
+  --mdb-table-bg: rgb(250, 229.2, 222);
+  --mdb-table-border-color: rgb(200, 183.36, 177.6);
+  --mdb-table-striped-bg: rgb(237.5, 217.74, 210.9);
   --mdb-table-striped-color: #000;
-  --mdb-table-active-bg: rgb(212.22, 215.82, 210.42);
+  --mdb-table-active-bg: rgb(225, 206.28, 199.8);
   --mdb-table-active-color: #000;
-  --mdb-table-hover-bg: rgb(218.115, 221.815, 216.265);
+  --mdb-table-hover-bg: rgb(231.25, 212.01, 205.35);
   --mdb-table-hover-color: #000;
   color: var(--mdb-table-color);
   border-color: var(--mdb-table-border-color);
@@ -1975,13 +1975,13 @@ progress {
 
 .table-success {
   --mdb-table-color: #000;
-  --mdb-table-bg: rgb(208, 236.8, 219.4);
-  --mdb-table-border-color: rgb(166.4, 189.44, 175.52);
-  --mdb-table-striped-bg: rgb(197.6, 224.96, 208.43);
+  --mdb-table-bg: rgb(250, 229.2, 222);
+  --mdb-table-border-color: rgb(200, 183.36, 177.6);
+  --mdb-table-striped-bg: rgb(237.5, 217.74, 210.9);
   --mdb-table-striped-color: #000;
-  --mdb-table-active-bg: rgb(187.2, 213.12, 197.46);
+  --mdb-table-active-bg: rgb(225, 206.28, 199.8);
   --mdb-table-active-color: #000;
-  --mdb-table-hover-bg: rgb(192.4, 219.04, 202.945);
+  --mdb-table-hover-bg: rgb(231.25, 212.01, 205.35);
   --mdb-table-hover-color: #000;
   color: var(--mdb-table-color);
   border-color: var(--mdb-table-border-color);
@@ -2803,7 +2803,7 @@ textarea.form-control-lg {
 .was-validated .form-control:valid, .form-control.is-valid {
   border-color: var(--mdb-form-valid-border-color);
   padding-right: calc(1.6em + 0.75rem);
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%2314a44d' d='M2.3 6.73.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23e67e5a' d='M2.3 6.73.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e");
   background-repeat: no-repeat;
   background-position: right calc(0.4em + 0.1875rem) center;
   background-size: calc(0.8em + 0.375rem) calc(0.8em + 0.375rem);
@@ -2822,7 +2822,7 @@ textarea.form-control-lg {
   border-color: var(--mdb-form-valid-border-color);
 }
 .was-validated .form-select:valid:not([multiple]):not([size]), .was-validated .form-select:valid:not([multiple])[size="1"], .form-select.is-valid:not([multiple]):not([size]), .form-select.is-valid:not([multiple])[size="1"] {
-  --mdb-form-select-bg-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%2314a44d' d='M2.3 6.73.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e");
+  --mdb-form-select-bg-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23e67e5a' d='M2.3 6.73.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e");
   padding-right: 4.125rem;
   background-position: right 0.75rem center, center right 2.25rem;
   background-size: 16px 12px, calc(0.8em + 0.375rem) calc(0.8em + 0.375rem);
@@ -3053,36 +3053,36 @@ textarea.form-control-lg {
 
 .btn-secondary {
   --mdb-btn-color: #fff;
-  --mdb-btn-bg: #9fb395;
-  --mdb-btn-border-color: #9fb395;
+  --mdb-btn-bg: #e67e5a;
+  --mdb-btn-border-color: #e67e5a;
   --mdb-btn-hover-color: #fff;
-  --mdb-btn-hover-bg: rgb(151.05, 170.05, 141.55);
-  --mdb-btn-hover-border-color: rgb(127.2, 143.2, 119.2);
-  --mdb-btn-focus-shadow-rgb: 173, 190, 165;
+  --mdb-btn-hover-bg: rgb(218.5, 119.7, 85.5);
+  --mdb-btn-hover-border-color: rgb(184, 100.8, 72);
+  --mdb-btn-focus-shadow-rgb: 234, 145, 115;
   --mdb-btn-active-color: #fff;
-  --mdb-btn-active-bg: rgb(143.1, 161.1, 134.1);
-  --mdb-btn-active-border-color: rgb(119.25, 134.25, 111.75);
+  --mdb-btn-active-bg: rgb(207, 113.4, 81);
+  --mdb-btn-active-border-color: rgb(172.5, 94.5, 67.5);
   --mdb-btn-active-shadow: 0 8px 9px -4px rgba(var(--mdb-box-shadow-color-rgb), 0.15), 0 4px 18px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.1);
   --mdb-btn-disabled-color: #fff;
-  --mdb-btn-disabled-bg: #9fb395;
-  --mdb-btn-disabled-border-color: #9fb395;
+  --mdb-btn-disabled-bg: #e67e5a;
+  --mdb-btn-disabled-border-color: #e67e5a;
 }
 
 .btn-success {
   --mdb-btn-color: #fff;
-  --mdb-btn-bg: #14a44d;
-  --mdb-btn-border-color: #14a44d;
+  --mdb-btn-bg: #e67e5a;
+  --mdb-btn-border-color: #e67e5a;
   --mdb-btn-hover-color: #fff;
-  --mdb-btn-hover-bg: rgb(19, 155.8, 73.15);
-  --mdb-btn-hover-border-color: rgb(16, 131.2, 61.6);
-  --mdb-btn-focus-shadow-rgb: 55, 178, 104;
+  --mdb-btn-hover-bg: rgb(218.5, 119.7, 85.5);
+  --mdb-btn-hover-border-color: rgb(184, 100.8, 72);
+  --mdb-btn-focus-shadow-rgb: 234, 145, 115;
   --mdb-btn-active-color: #fff;
-  --mdb-btn-active-bg: rgb(18, 147.6, 69.3);
-  --mdb-btn-active-border-color: rgb(15, 123, 57.75);
+  --mdb-btn-active-bg: rgb(207, 113.4, 81);
+  --mdb-btn-active-border-color: rgb(172.5, 94.5, 67.5);
   --mdb-btn-active-shadow: 0 8px 9px -4px rgba(var(--mdb-box-shadow-color-rgb), 0.15), 0 4px 18px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.1);
   --mdb-btn-disabled-color: #fff;
-  --mdb-btn-disabled-bg: #14a44d;
-  --mdb-btn-disabled-border-color: #14a44d;
+  --mdb-btn-disabled-bg: #e67e5a;
+  --mdb-btn-disabled-border-color: #e67e5a;
 }
 
 .btn-danger {
@@ -3188,36 +3188,36 @@ textarea.form-control-lg {
 }
 
 .btn-outline-secondary {
-  --mdb-btn-color: #9fb395;
-  --mdb-btn-border-color: #9fb395;
+  --mdb-btn-color: #e67e5a;
+  --mdb-btn-border-color: #e67e5a;
   --mdb-btn-hover-color: #fff;
-  --mdb-btn-hover-bg: #9fb395;
-  --mdb-btn-hover-border-color: #9fb395;
-  --mdb-btn-focus-shadow-rgb: 159, 179, 149;
+  --mdb-btn-hover-bg: #e67e5a;
+  --mdb-btn-hover-border-color: #e67e5a;
+  --mdb-btn-focus-shadow-rgb: 230, 126, 90;
   --mdb-btn-active-color: #fff;
-  --mdb-btn-active-bg: #9fb395;
-  --mdb-btn-active-border-color: #9fb395;
+  --mdb-btn-active-bg: #e67e5a;
+  --mdb-btn-active-border-color: #e67e5a;
   --mdb-btn-active-shadow: 0 8px 9px -4px rgba(var(--mdb-box-shadow-color-rgb), 0.15), 0 4px 18px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.1);
-  --mdb-btn-disabled-color: #9fb395;
+  --mdb-btn-disabled-color: #e67e5a;
   --mdb-btn-disabled-bg: transparent;
-  --mdb-btn-disabled-border-color: #9fb395;
+  --mdb-btn-disabled-border-color: #e67e5a;
   --mdb-gradient: none;
 }
 
 .btn-outline-success {
-  --mdb-btn-color: #14a44d;
-  --mdb-btn-border-color: #14a44d;
+  --mdb-btn-color: #e67e5a;
+  --mdb-btn-border-color: #e67e5a;
   --mdb-btn-hover-color: #fff;
-  --mdb-btn-hover-bg: #14a44d;
-  --mdb-btn-hover-border-color: #14a44d;
-  --mdb-btn-focus-shadow-rgb: 20, 164, 77;
+  --mdb-btn-hover-bg: #e67e5a;
+  --mdb-btn-hover-border-color: #e67e5a;
+  --mdb-btn-focus-shadow-rgb: 230, 126, 90;
   --mdb-btn-active-color: #fff;
-  --mdb-btn-active-bg: #14a44d;
-  --mdb-btn-active-border-color: #14a44d;
+  --mdb-btn-active-bg: #e67e5a;
+  --mdb-btn-active-border-color: #e67e5a;
   --mdb-btn-active-shadow: 0 8px 9px -4px rgba(var(--mdb-box-shadow-color-rgb), 0.15), 0 4px 18px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.1);
-  --mdb-btn-disabled-color: #14a44d;
+  --mdb-btn-disabled-color: #e67e5a;
   --mdb-btn-disabled-bg: transparent;
-  --mdb-btn-disabled-border-color: #14a44d;
+  --mdb-btn-disabled-border-color: #e67e5a;
   --mdb-gradient: none;
 }
 
@@ -6898,8 +6898,8 @@ textarea.form-control-lg {
   text-decoration-color: RGBA(var(--mdb-secondary-rgb), var(--mdb-link-underline-opacity, 1)) !important;
 }
 .link-secondary:hover, .link-secondary:focus {
-  color: RGBA(151, 170, 142, var(--mdb-link-opacity, 1)) !important;
-  text-decoration-color: RGBA(151, 170, 142, var(--mdb-link-underline-opacity, 1)) !important;
+  color: RGBA(219, 120, 86, var(--mdb-link-opacity, 1)) !important;
+  text-decoration-color: RGBA(219, 120, 86, var(--mdb-link-underline-opacity, 1)) !important;
 }
 
 .link-success {
@@ -6907,8 +6907,8 @@ textarea.form-control-lg {
   text-decoration-color: RGBA(var(--mdb-success-rgb), var(--mdb-link-underline-opacity, 1)) !important;
 }
 .link-success:hover, .link-success:focus {
-  color: RGBA(19, 156, 73, var(--mdb-link-opacity, 1)) !important;
-  text-decoration-color: RGBA(19, 156, 73, var(--mdb-link-underline-opacity, 1)) !important;
+  color: RGBA(219, 120, 86, var(--mdb-link-opacity, 1)) !important;
+  text-decoration-color: RGBA(219, 120, 86, var(--mdb-link-underline-opacity, 1)) !important;
 }
 
 .link-danger {
@@ -13309,12 +13309,12 @@ a {
 
 .bg-secondary {
   --mdb--bg-opacity: 1;
-  background-color: rgba(159, 179, 149, var(--mdb--bg-opacity));
+  background-color: rgba(230, 126, 90, var(--mdb--bg-opacity));
 }
 
 .bg-success {
   --mdb--bg-opacity: 1;
-  background-color: rgba(20, 164, 77, var(--mdb--bg-opacity));
+  background-color: rgba(230, 126, 90, var(--mdb--bg-opacity));
 }
 
 .bg-danger {
@@ -14831,7 +14831,7 @@ TEXTAREA:not(:-webkit-autofill) {
   width: auto;
   margin-top: 0.25rem;
   font-size: 0.875rem;
-  color: #14a44d;
+  color: #e67e5a;
   margin-top: -0.75rem;
 }
 
@@ -14844,7 +14844,7 @@ TEXTAREA:not(:-webkit-autofill) {
   padding: 6px 16px;
   margin-top: 0.1rem;
   font-size: 0.875rem;
-  background-color: rgba(20, 164, 77, 0.9);
+  background-color: rgba(230, 126, 90, 0.9);
   border-radius: 0.25rem !important;
   color: #fff;
 }
@@ -14859,54 +14859,54 @@ TEXTAREA:not(:-webkit-autofill) {
 .was-validated .form-control:valid, .form-control.is-valid {
   margin-bottom: 1rem;
   background-image: none;
-  border-color: #14a44d;
+  border-color: #e67e5a;
 }
 .was-validated .form-control:valid:focus, .form-control.is-valid:focus {
-  border-color: #14a44d;
-  box-shadow: 0 0 0 0.25rem rgba(20, 164, 77, 0.25);
+  border-color: #e67e5a;
+  box-shadow: 0 0 0 0.25rem rgba(230, 126, 90, 0.25);
 }
 
 .was-validated .form-outline .form-control:valid ~ .form-label, .form-outline .form-control.is-valid ~ .form-label {
-  color: #14a44d;
+  color: #e67e5a;
 }
 .was-validated .form-outline .form-control:valid ~ .form-notch .form-notch-leading,
 .was-validated .form-outline .form-control:valid ~ .form-notch .form-notch-middle,
 .was-validated .form-outline .form-control:valid ~ .form-notch .form-notch-trailing, .form-outline .form-control.is-valid ~ .form-notch .form-notch-leading,
 .form-outline .form-control.is-valid ~ .form-notch .form-notch-middle,
 .form-outline .form-control.is-valid ~ .form-notch .form-notch-trailing {
-  border-color: #14a44d;
+  border-color: #e67e5a;
 }
 .was-validated .form-outline .form-control:valid:focus ~ .form-notch .form-notch-middle, .was-validated .form-outline .form-control:valid.active ~ .form-notch .form-notch-middle, .form-outline .form-control.is-valid:focus ~ .form-notch .form-notch-middle, .form-outline .form-control.is-valid.active ~ .form-notch .form-notch-middle {
   border-top: 1px solid transparent;
 }
 .was-validated .form-outline .form-control:valid:focus ~ .form-notch .form-notch-middle, .form-outline .form-control.is-valid:focus ~ .form-notch .form-notch-middle {
-  box-shadow: 0 1px 0 0 #14a44d;
+  box-shadow: 0 1px 0 0 #e67e5a;
 }
 .was-validated .form-outline .form-control:valid:focus ~ .form-notch .form-notch-leading, .form-outline .form-control.is-valid:focus ~ .form-notch .form-notch-leading {
-  border-color: #14a44d;
-  box-shadow: -1px 0 0 0 #14a44d, 0 1px 0 0 #14a44d, 0 -1px 0 0 #14a44d;
+  border-color: #e67e5a;
+  box-shadow: -1px 0 0 0 #e67e5a, 0 1px 0 0 #e67e5a, 0 -1px 0 0 #e67e5a;
 }
 .was-validated .form-outline .form-control:valid:focus ~ .form-notch .form-notch-trailing, .form-outline .form-control.is-valid:focus ~ .form-notch .form-notch-trailing {
-  border-color: #14a44d;
-  box-shadow: 1px 0 0 0 #14a44d, 0 -1px 0 0 #14a44d, 0 1px 0 0 #14a44d;
+  border-color: #e67e5a;
+  box-shadow: 1px 0 0 0 #e67e5a, 0 -1px 0 0 #e67e5a, 0 1px 0 0 #e67e5a;
 }
 .was-validated .form-outline .form-control:valid.select-input.focused ~ .form-notch .form-notch-leading, .form-outline .form-control.is-valid.select-input.focused ~ .form-notch .form-notch-leading {
-  box-shadow: -1px 0 0 0 #14a44d, 0 1px 0 0 #14a44d, 0 -1px 0 0 #14a44d;
+  box-shadow: -1px 0 0 0 #e67e5a, 0 1px 0 0 #e67e5a, 0 -1px 0 0 #e67e5a;
 }
 .was-validated .form-outline .form-control:valid.select-input.focused ~ .form-notch .form-notch-middle, .form-outline .form-control.is-valid.select-input.focused ~ .form-notch .form-notch-middle {
-  box-shadow: 0 1px 0 0 #14a44d;
+  box-shadow: 0 1px 0 0 #e67e5a;
   border-top: 1px solid transparent;
 }
 .was-validated .form-outline .form-control:valid.select-input.focused ~ .form-notch .form-notch-trailing, .form-outline .form-control.is-valid.select-input.focused ~ .form-notch .form-notch-trailing {
-  box-shadow: 1px 0 0 0 #14a44d, 0 -1px 0 0 #14a44d, 0 1px 0 0 #14a44d;
+  box-shadow: 1px 0 0 0 #e67e5a, 0 -1px 0 0 #e67e5a, 0 1px 0 0 #e67e5a;
 }
 
 .was-validated .form-select:valid, .form-select.is-valid {
-  border-color: #14a44d;
+  border-color: #e67e5a;
 }
 .was-validated .form-select:valid:focus, .form-select.is-valid:focus {
-  border-color: #14a44d;
-  box-shadow: 0 0 0 0.25rem rgba(20, 164, 77, 0.25);
+  border-color: #e67e5a;
+  box-shadow: 0 0 0 0.25rem rgba(230, 126, 90, 0.25);
 }
 .was-validated .form-select:valid ~ .valid-feedback, .form-select.is-valid ~ .valid-feedback {
   margin-top: 0;
@@ -14920,8 +14920,8 @@ TEXTAREA:not(:-webkit-autofill) {
   margin-top: 0;
 }
 .was-validated input[type=file].form-control:valid:focus, input[type=file].form-control.is-valid:focus {
-  box-shadow: inset 0 0 0 1px #14a44d;
-  border-color: #14a44d;
+  box-shadow: inset 0 0 0 1px #e67e5a;
+  border-color: #e67e5a;
 }
 .was-validated input[type=file].form-control:valid:focus ~ .form-file-label, input[type=file].form-control.is-valid:focus ~ .form-file-label {
   box-shadow: none;
@@ -14929,42 +14929,42 @@ TEXTAREA:not(:-webkit-autofill) {
 .was-validated input[type=file].form-control:valid:focus-within ~ .form-file-label .form-file-text,
 .was-validated input[type=file].form-control:valid:focus-within ~ .form-file-label .form-file-button, input[type=file].form-control.is-valid:focus-within ~ .form-file-label .form-file-text,
 input[type=file].form-control.is-valid:focus-within ~ .form-file-label .form-file-button {
-  border-color: #14a44d;
+  border-color: #e67e5a;
 }
 
 .was-validated .form-check-input:valid, .form-check-input.is-valid {
-  border-color: #14a44d;
+  border-color: #e67e5a;
 }
 .was-validated .form-check-input:valid:checked, .form-check-input.is-valid:checked {
-  background-color: #14a44d;
+  background-color: #e67e5a;
 }
 .was-validated .form-check-input:valid:checked:focus:before, .form-check-input.is-valid:checked:focus:before {
-  box-shadow: 0px 0px 0px 13px #14a44d;
+  box-shadow: 0px 0px 0px 13px #e67e5a;
 }
 .was-validated .form-check-input:valid:focus, .form-check-input.is-valid:focus {
   box-shadow: none;
 }
 .was-validated .form-check-input:valid:focus:before, .form-check-input.is-valid:focus:before {
-  box-shadow: 0px 0px 0px 13px #14a44d;
+  box-shadow: 0px 0px 0px 13px #e67e5a;
 }
 .was-validated .form-check-input:valid ~ .form-check-label, .form-check-input.is-valid ~ .form-check-label {
-  color: #14a44d;
+  color: #e67e5a;
   margin-bottom: 1rem;
 }
 .was-validated .form-check-input:valid[type=checkbox]:checked:focus, .form-check-input.is-valid[type=checkbox]:checked:focus {
-  background-color: #14a44d;
-  border-color: #14a44d;
+  background-color: #e67e5a;
+  border-color: #e67e5a;
 }
 .was-validated .form-check-input:valid[type=radio]:checked, .form-check-input.is-valid[type=radio]:checked {
-  border-color: #14a44d;
+  border-color: #e67e5a;
   background-color: #fff;
 }
 .was-validated .form-check-input:valid[type=radio]:checked:focus:before, .form-check-input.is-valid[type=radio]:checked:focus:before {
-  box-shadow: 0px 0px 0px 13px #14a44d;
+  box-shadow: 0px 0px 0px 13px #e67e5a;
 }
 .was-validated .form-check-input:valid[type=radio]:checked:after, .form-check-input.is-valid[type=radio]:checked:after {
-  border-color: #14a44d;
-  background-color: #14a44d;
+  border-color: #e67e5a;
+  background-color: #e67e5a;
 }
 
 .form-check-inline .form-check-input ~ .valid-feedback {
@@ -14975,11 +14975,11 @@ input[type=file].form-control.is-valid:focus-within ~ .form-file-label .form-fil
   box-shadow: 3px -1px 0px 13px rgba(var(--mdb-box-shadow-color-rgb), 0.6);
 }
 .was-validated .form-switch .form-check-input:valid:checked[type=checkbox]:after, .form-switch .form-check-input.is-valid:checked[type=checkbox]:after {
-  background-color: #14a44d;
+  background-color: #e67e5a;
   box-shadow: 0 3px 1px -2px rgba(var(--mdb-box-shadow-color-rgb), 0.2), 0 2px 2px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.14), 0 1px 5px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.12);
 }
 .was-validated .form-switch .form-check-input:valid:checked:focus:before, .form-switch .form-check-input.is-valid:checked:focus:before {
-  box-shadow: 3px -1px 0px 13px #14a44d;
+  box-shadow: 3px -1px 0px 13px #e67e5a;
 }
 
 .invalid-feedback {
@@ -15206,13 +15206,13 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 
 .table-secondary {
   --mdb-table-color: #000;
-  --mdb-table-bg: rgb(235.8, 239.8, 233.8);
-  --mdb-table-border-color: rgb(188.64, 191.84, 187.04);
-  --mdb-table-striped-bg: rgb(224.01, 227.81, 222.11);
+  --mdb-table-bg: rgb(250, 229.2, 222);
+  --mdb-table-border-color: rgb(200, 183.36, 177.6);
+  --mdb-table-striped-bg: rgb(237.5, 217.74, 210.9);
   --mdb-table-striped-color: #000;
-  --mdb-table-active-bg: rgb(212.22, 215.82, 210.42);
+  --mdb-table-active-bg: rgb(225, 206.28, 199.8);
   --mdb-table-active-color: #000;
-  --mdb-table-hover-bg: rgb(218.115, 221.815, 216.265);
+  --mdb-table-hover-bg: rgb(231.25, 212.01, 205.35);
   --mdb-table-hover-color: #000;
   color: var(--mdb-table-color);
   border-color: var(--mdb-table-border-color);
@@ -15220,13 +15220,13 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 
 .table-success {
   --mdb-table-color: #000;
-  --mdb-table-bg: rgb(208, 236.8, 219.4);
-  --mdb-table-border-color: rgb(166.4, 189.44, 175.52);
-  --mdb-table-striped-bg: rgb(197.6, 224.96, 208.43);
+  --mdb-table-bg: rgb(250, 229.2, 222);
+  --mdb-table-border-color: rgb(200, 183.36, 177.6);
+  --mdb-table-striped-bg: rgb(237.5, 217.74, 210.9);
   --mdb-table-striped-color: #000;
-  --mdb-table-active-bg: rgb(187.2, 213.12, 197.46);
+  --mdb-table-active-bg: rgb(225, 206.28, 199.8);
   --mdb-table-active-color: #000;
-  --mdb-table-hover-bg: rgb(192.4, 219.04, 202.945);
+  --mdb-table-hover-bg: rgb(231.25, 212.01, 205.35);
   --mdb-table-hover-color: #000;
   color: var(--mdb-table-color);
   border-color: var(--mdb-table-border-color);
@@ -15485,16 +15485,16 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 }
 
 .btn-success {
-  --mdb-btn-bg: #14a44d;
+  --mdb-btn-bg: #e67e5a;
   --mdb-btn-color: #fff;
-  --mdb-btn-box-shadow: 0 4px 9px -4px rgb(19, 155.8, 73.15);
-  --mdb-btn-hover-bg: rgb(19, 155.8, 73.15);
+  --mdb-btn-box-shadow: 0 4px 9px -4px rgb(218.5, 119.7, 85.5);
+  --mdb-btn-hover-bg: rgb(218.5, 119.7, 85.5);
   --mdb-btn-hover-color: #fff;
-  --mdb-btn-focus-bg: rgb(19, 155.8, 73.15);
+  --mdb-btn-focus-bg: rgb(218.5, 119.7, 85.5);
   --mdb-btn-focus-color: #fff;
-  --mdb-btn-active-bg: rgb(18, 147.6, 69.3);
+  --mdb-btn-active-bg: rgb(207, 113.4, 81);
   --mdb-btn-active-color: #fff;
-  --mdb-btn-box-shadow-state: 0 8px 9px -4px rgba(19, 155.8, 73.15, 0.3), 0 4px 18px 0 rgba(19, 155.8, 73.15, 0.2);
+  --mdb-btn-box-shadow-state: 0 8px 9px -4px rgba(218.5, 119.7, 85.5, 0.3), 0 4px 18px 0 rgba(218.5, 119.7, 85.5, 0.2);
 }
 :not(.btn-check) + .btn-success:hover, .btn-success:first-child:hover, .btn-success:focus-visible, .btn-success:hover {
   box-shadow: var(--mdb-btn-box-shadow-state);
@@ -15806,16 +15806,16 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 
 .btn-outline-success {
   --mdb-btn-bg: transparent;
-  --mdb-btn-color: #14a44d;
-  --mdb-btn-hover-bg: rgb(243.25, 250.45, 246.1);
-  --mdb-btn-hover-color: rgb(19, 155.8, 73.15);
-  --mdb-btn-focus-bg: rgb(243.25, 250.45, 246.1);
-  --mdb-btn-focus-color: rgb(19, 155.8, 73.15);
-  --mdb-btn-active-bg: rgb(243.25, 250.45, 246.1);
-  --mdb-btn-active-color: rgb(18, 147.6, 69.3);
-  --mdb-btn-outline-border-color: #14a44d;
-  --mdb-btn-outline-focus-border-color: rgb(16, 131.2, 61.6);
-  --mdb-btn-outline-hover-border-color: rgb(16, 131.2, 61.6);
+  --mdb-btn-color: #e67e5a;
+  --mdb-btn-hover-bg: rgb(253.75, 248.55, 246.75);
+  --mdb-btn-hover-color: rgb(218.5, 119.7, 85.5);
+  --mdb-btn-focus-bg: rgb(253.75, 248.55, 246.75);
+  --mdb-btn-focus-color: rgb(218.5, 119.7, 85.5);
+  --mdb-btn-active-bg: rgb(253.75, 248.55, 246.75);
+  --mdb-btn-active-color: rgb(207, 113.4, 81);
+  --mdb-btn-outline-border-color: #e67e5a;
+  --mdb-btn-outline-focus-border-color: rgb(184, 100.8, 72);
+  --mdb-btn-outline-hover-border-color: rgb(184, 100.8, 72);
   border-color: var(--mdb-btn-outline-border-color);
 }
 :not(.btn-check) + .btn-outline-success:hover, .btn-outline-success:first-child:hover, .btn-outline-success:focus-visible, .btn-outline-success:hover {
@@ -15836,13 +15836,13 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 
 [data-mdb-theme=dark] .btn-outline-success {
   --mdb-btn-bg: transparent;
-  --mdb-btn-color: rgb(67, 182.2, 112.6);
-  --mdb-btn-hover-bg: rgb(6, 49.2, 23.1);
-  --mdb-btn-hover-color: rgb(19, 155.8, 73.15);
-  --mdb-btn-focus-bg: rgb(6, 49.2, 23.1);
-  --mdb-btn-focus-color: rgb(19, 155.8, 73.15);
-  --mdb-btn-active-bg: rgb(6, 49.2, 23.1);
-  --mdb-btn-active-color: rgb(18, 147.6, 69.3);
+  --mdb-btn-color: rgb(235, 151.8, 123);
+  --mdb-btn-hover-bg: rgb(69, 37.8, 27);
+  --mdb-btn-hover-color: rgb(218.5, 119.7, 85.5);
+  --mdb-btn-focus-bg: rgb(69, 37.8, 27);
+  --mdb-btn-focus-color: rgb(218.5, 119.7, 85.5);
+  --mdb-btn-active-bg: rgb(69, 37.8, 27);
+  --mdb-btn-active-color: rgb(207, 113.4, 81);
 }
 
 .btn-outline-danger {
@@ -16124,18 +16124,18 @@ input[type=file].form-control.is-invalid:focus-within ~ .form-file-label .form-f
 }
 
 [data-mdb-theme=dark] .btn-link {
-  --mdb-btn-color: #9fb395;
-  --mdb-btn-hover-color: rgb(187.8, 201.8, 180.8);
-  --mdb-btn-hover-bg: rgb(63.6, 71.6, 59.6);
-  --mdb-btn-focus-color: rgb(187.8, 201.8, 180.8);
-  --mdb-btn-active-color: rgb(187.8, 201.8, 180.8);
+  --mdb-btn-color: #e67e5a;
+  --mdb-btn-hover-color: rgb(237.5, 164.7, 139.5);
+  --mdb-btn-hover-bg: rgb(92, 50.4, 36);
+  --mdb-btn-focus-color: rgb(237.5, 164.7, 139.5);
+  --mdb-btn-active-color: rgb(237.5, 164.7, 139.5);
 }
 
 [data-mdb-theme=dark] .btn-tertiary {
-  --mdb-btn-color: #9fb395;
-  --mdb-btn-hover-color: rgb(187.8, 201.8, 180.8);
-  --mdb-btn-focus-color: rgb(187.8, 201.8, 180.8);
-  --mdb-btn-active-color: rgb(187.8, 201.8, 180.8);
+  --mdb-btn-color: #e67e5a;
+  --mdb-btn-hover-color: rgb(237.5, 164.7, 139.5);
+  --mdb-btn-focus-color: rgb(237.5, 164.7, 139.5);
+  --mdb-btn-active-color: rgb(237.5, 164.7, 139.5);
 }
 
 .btn-lg, .btn-group-lg > .btn {
@@ -17431,7 +17431,7 @@ fieldset:disabled .btn-group-vertical > .btn {
 }
 
 .ripple-surface-success .ripple-wave {
-  background-image: radial-gradient(circle, rgba(20, 164, 77, 0.2) 0, rgba(20, 164, 77, 0.3) 40%, rgba(20, 164, 77, 0.4) 50%, rgba(20, 164, 77, 0.5) 60%, rgba(20, 164, 77, 0) 70%);
+  background-image: radial-gradient(circle, rgba(230, 126, 90, 0.2) 0, rgba(230, 126, 90, 0.3) 40%, rgba(230, 126, 90, 0.4) 50%, rgba(230, 126, 90, 0.5) 60%, rgba(230, 126, 90, 0) 70%);
 }
 
 .ripple-surface-danger .ripple-wave {
