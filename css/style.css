@@ -10,3 +10,7 @@
 
 
 /*--------------全域域設定 */
+
+.custom-shadow {
+  box-shadow: 0 1rem 3rem rgba(255, 190, 152, 0.4);
+}
